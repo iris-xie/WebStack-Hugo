@@ -1,51 +1,134 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: Frequently Used Recommendations
   icon: far fa-star
   links: 
-    - title: 语雀
-      logo: 语雀.webp
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
-    - title: QQ 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
-    - title: 开源中国
-      logo: 开源中国.jpg
-      url: https://www.oschina.net/
-      description: 中文开源技术交流社区。
-    - title: 公众号平台
-      logo: 微信公众号.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
-    - title: GitHub
-      logo: github.png
-      url: https://github.com/
-      description: GitHub 开源社区。
-    - title: 搜狗微信
-      logo: 搜狗微信.jpg
-      url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达。
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。
-    - title: V2EX
-      logo: v2ex.jpg
-      url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区。
-    - title: 关注我们
-      logo: 关注.jpg
-      url: https://www.bioitee.com
-      qrcode: qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
+    - title: Google UK
+      logo: https://www.gstatic.com/marketing-cms/assets/images/f5/d3/a7f9db7045429cb6dc6be56bdcbe/google-logo-about.svg
+      url: https://www.google.co.uk/
+      description: The UK-specific version of Google, offering tailored search, maps, Gmail, and other services for British users.
+    - title: YouTube
+      logo: https://www.gstatic.com/youtube/img/branding/youtube-logo/svg/youtube-logo-red.svg
+      url: https://www.youtube.com/
+      description: The world's largest video platform, used by UK users for entertainment, education, news, and content creation.
+    - title: Facebook
+      logo: https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg
+      url: https://www.facebook.com/
+      description: A leading social media site where UK users connect with friends, share updates, and join community groups.
+    - title: Amazon UK
+      logo: https://m.media-amazon.com/images/G/02/gc/designs/livepreview/amazon-logo-primary-1x.CB628458337.png
+      url: https://www.amazon.co.uk/
+      description: UK branch of Amazon, offering online shopping for electronics, books, household goods, and fast delivery.
+    - title: BBC
+      logo: https://www.bbc.co.uk/favicon.ico
+      url: https://www.bbc.co.uk/
+      description: UK's national public broadcaster, providing news, TV schedules, radio, and educational content.
+    - title: WhatsApp
+      logo: https://static.whatsapp.net/rsrc.php/v3/yP/r/628aS2M-Qj1.svg
+      url: https://www.whatsapp.com/
+      description: Popular messaging app for free text, voice, and video calls among UK individuals and groups.
+    - title: Instagram
+      logo: https://static.cdninstagram.com/rsrc.php/v3/yx/r/76Z323sMZTI.svg
+      url: https://www.instagram.com/
+      description: Visual social platform focused on photos/videos, used by UK users for sharing moments and following influencers.
+    - title: X (Twitter)
+      logo: https://abs.twimg.com/favicons/twitter.2.ico
+      url: https://x.com/
+      description: Real-time social site for news sharing and public conversations, used by UK celebrities, politicians, and businesses.
+    - title: eBay UK
+      logo: https://www.ebay.co.uk/favicon.ico
+      url: https://www.ebay.co.uk/
+      description: Online marketplace for UK users to buy/sell new/used items like electronics, fashion, and collectibles.
+    - title: LinkedIn UK
+      logo: https://static.licdn.com/aero-v1/sc/h/83h22zrdx4ep1f09ua7118fr4
+      url: https://uk.linkedin.com/
+      description: Professional networking platform for UK job searches, career development, and business connections.
+    - title: TikTok
+      logo: https://www.tiktok.com/favicon.ico
+      url: https://www.tiktok.com/
+      description: Short-form video app popular in the UK for creative content, trends, music, and viral challenges.
+    - title: Google Maps
+      logo: https://www.gstatic.com/images/branding/product/1x/maps_2020q4_48dp.png
+      url: https://www.google.co.uk/maps
+      description: Mapping service for UK users to get directions, find local businesses, and check traffic.
+    - title: Gmail
+      logo: https://www.gstatic.com/images/branding/product/1x/gmail_2020q4_48dp.png
+      url: https://mail.google.com/
+      description: Google's free email service, widely used by UK individuals and businesses for communication.
+    - title: Tesco
+      logo: https://www.tesco.com/favicon.ico
+      url: https://www.tesco.com/
+      description: UK's largest supermarket chain, offering online grocery shopping, home delivery, and in-store info.
+    - title: Argos
+      logo: https://www.argos.co.uk/favicon.ico
+      url: https://www.argos.co.uk/
+      description: UK retail chain for electronics, furniture, toys, with online ordering and in-store pickup.
+    - title: Metro
+      logo: https://www.metro.co.uk/favicon.ico
+      url: https://www.metro.co.uk/
+      description: UK tabloid website covering news, entertainment, sports, and lifestyle content.
+    - title: The Guardian
+      logo: https://assets.guim.co.uk/images/favicons/guardian/apple-touch-icon-180x180.png
+      url: https://www.theguardian.com/uk
+      description: Respected UK broadsheet website with in-depth news, opinion, and cultural coverage.
+    - title: Sky News
+      logo: https://news.sky.com/favicon.ico
+      url: https://news.sky.com/
+      description: 24-hour UK news service with breaking news, politics, business, and international coverage.
+    - title: Spotify UK
+      logo: https://www.spotify.com/favicon.ico
+      url: https://www.spotify.com/uk/
+      description: UK version of Spotify, a music streaming service with millions of songs, podcasts, and playlists.
+    - title: Netflix UK
+      logo: https://www.netflix.com/favicon.ico
+      url: https://www.netflix.com/uk/
+      description: UK branch of Netflix, with a large library of TV shows, movies, and original content.
+    - title: Microsoft 365 UK
+      logo: https://www.microsoft.com/favicon.ico
+      url: https://www.microsoft.com/en-gb/microsoft-365
+      description: UK-focused productivity suite including Word, Excel, PowerPoint, and OneDrive.
+    - title: PayPal UK
+      logo: https://www.paypal.com/favicon.ico
+      url: https://www.paypal.com/uk/
+      description: Secure online payment platform for UK shopping, money transfers, and business transactions.
+    - title: ASOS
+      logo: https://www.asos.com/favicon.ico
+      url: https://www.asos.com/
+      description: UK online fashion retailer for young adults, offering clothing, shoes, and accessories.
+    - title: Boots
+      logo: https://www.boots.com/favicon.ico
+      url: https://www.boots.com/
+      description: UK's leading pharmacy and beauty retailer, with online shopping for healthcare and cosmetics.
+    - title: BBC News
+      logo: https://www.bbc.co.uk/news/favicon.ico
+      url: https://www.bbc.co.uk/news
+      description: BBC's dedicated news site with up-to-date UK and international news, science, and tech.
+    - title: Google Drive
+      logo: https://www.gstatic.com/images/branding/product/1x/drive_2020q4_48dp.png
+      url: https://drive.google.com/
+      description: Google's cloud storage service for UK users to store, share, and collaborate on files.
+    - title: National Rail Enquiries
+      logo: https://www.nationalrail.co.uk/favicon.ico
+      url: https://www.nationalrail.co.uk/
+      description: Official UK rail service with timetables, ticket booking, and travel disruption updates.
+    - title: BBC iPlayer
+      logo: https://www.bbc.co.uk/iplayer/favicon.ico
+      url: https://www.bbc.co.uk/iplayer
+      description: BBC's on-demand service for UK users to watch live and catch-up TV, films, and radio.
+    - title: Marks & Spencer (M&S)
+      logo: https://www.marksandspencer.com/favicon.ico
+      url: https://www.marksandspencer.com/
+      description: Iconic UK retailer offering clothing, food, and homeware, with online shopping and delivery.
+    - title: Yahoo UK
+      logo: https://uk.yahoo.com/favicon.ico
+      url: https://uk.yahoo.com/
+      description: UK version of Yahoo, providing search, news, email, and lifestyle content for British users.
 
 
-- taxonomy: 科研办公
+- taxonomy: scientific research and office operations
   icon: fas fa-flask fa-lg
   list:
-    - term: 生物信息
+    - term: Bioinformation
       links:
         - title: NCBI
           logo: ncbi.jpg
@@ -71,82 +154,111 @@
           logo: bioconductor.jpg
           url: http://www.bioconductor.org/
           description: http://www.bioconductor.org
-    - term: 云服务器
+    - term: cloud
       links:
-        - title: 阿里云
-          logo: 阿里云.jpg
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云。
-        - title: 腾讯云
-          logo: 腾讯云.webp
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来。
-        - title: 华为云
-          logo: 华为云.png
-          url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。
-        - title: 云筏科技
-          logo: 云筏.png
-          url: https://www.cloudraft.cn/
-          description: 你的生信科研好选择。
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.png
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件。
-        - title: 青椒云
-          logo: 青椒云.jpg
-          url: https://www.qingjiaocloud.com/
-          description: 云桌面,一站式云电脑服务平台。
-    - term: 办公学习
+        - title: Amazon Web Services (AWS) UK
+          logo: https://d0.awsstatic.com/logos/powered-by-aws.png
+          url: https://aws.amazon.com/uk/
+          description: Leading cloud platform offering computing power, storage, databases, and AI services for UK businesses of all sizes.
+        - title: Microsoft Azure UK
+          logo: https://azurecomcdn.azureedge.net/cvt-76f0396683c648ef98c9b689d3c8b936c7396d8c/images/shared/logos/azure/Icon_Circle.png
+          url: https://azure.microsoft.com/en-gb/
+          description: Comprehensive cloud service with infrastructure, developer tools, and enterprise solutions tailored to UK organizations.
+        - title: Google Cloud UK
+          logo: https://www.gstatic.com/branding/product-logos/cloud.svg
+          url: https://cloud.google.com/uk
+          description: Scalable cloud platform providing data analytics, machine learning, and cloud storage for UK businesses and developers.
+        - title: IBM Cloud UK
+          logo: https://www.ibm.com/favicon.ico
+          url: https://www.ibm.com/cloud/uk-en
+          description: Enterprise-focused cloud service offering hybrid cloud solutions, AI, and industry-specific tools for UK enterprises.
+        - title: Oracle Cloud UK
+          logo: https://www.oracle.com/favicon.ico
+          url: https://www.oracle.com/uk/cloud/
+          description: Cloud platform delivering infrastructure, database services, and business applications for UK companies.
+        - title: Dropbox Business UK
+          logo: https://static.dropbox.com/static/images/branding/logo开屏 - vfl6y7RDf.svg
+          url: https://www.dropbox.com/business/uk
+          description: Cloud storage and collaboration tool for UK teams, enabling file sharing, syncing, and remote work support.
+        - title: DigitalOcean UK
+          logo: https://www.digitalocean.com/assets/media/logos/svg/digitalocean-logo-mark-full.svg
+          url: https://www.digitalocean.com/regions/london
+          description: Simple, affordable cloud platform with virtual servers (Droplets) and developer tools for UK startups and small businesses.
+    - term: office work and study
       links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
-        - title: ProcessOn
-          logo: ProcessOn.png
-          url: https://www.processon.com/
-          description: 免费在线作图、实时协作。
+        - title: Microsoft 365 UK
+          logo: https://www.microsoft.com/favicon.ico
+          url: https://www.microsoft.com/en-gb/microsoft-365
+          description: Comprehensive suite for office work and study, including Word, Excel, PowerPoint for document creation, and OneDrive for cloud storage.
+        - title: Google Workspace UK
+          logo: https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg
+          url: https://workspace.google.com/intl/en_gb/
+          description: Cloud-based office and study toolset, with Google Docs, Sheets, Slides for real-time collaboration, and Google Drive for file sharing.
+        - title: Notion UK
+          logo: https://www.notion.so/images/favicon.ico
+          url: https://www.notion.so/en-gb
+          description: All-in-one workspace for office tasks and study, enabling note-taking, project management, and database creation in a customizable interface.
+        - title: LinkedIn Learning UK
+          logo: https://static.licdn.com/aero-v1/sc/h/83h22zrdx4ep1f09ua7118fr4
+          url: https://www.linkedin.com/learning
+          description: Platform for professional study and skill development, offering courses on office software, business skills, and industry-specific knowledge.
+        - title: Coursera UK
+          logo: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-logo/images/Coursera_Logo.png
+          url: https://www.coursera.org/
+          description: Online learning platform with courses from top universities, ideal for supplementing study or upskilling for office-related roles.
+        - title: Trello UK
+          logo: https://trello.com/favicon.ico
+          url: https://trello.com/en-GB
+          description: Visual project management tool for office work and study planning, using boards, lists, and cards to organize tasks and track progress.
         
 
-- taxonomy: 悠闲娱乐
+- taxonomy: leisure and entertainment
   icon: fas fa-film fa-lg
   list:
-    - term: 影音视频
+    - term: audio and video
       links:
-        - title: 腾讯视频
-          logo: 腾讯视频.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
-        - title: 爱奇艺
-          logo: 爱奇艺.png
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频。
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.png
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。
-        - title: QQ 音乐
-          logo: QQ音乐.jpg
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
-        - title: 网易云音乐
-          logo: 网易云音乐.jpg
-          url: https://music.163.com/
-          description: 163 网易云音乐。
-    - term: 游戏竞技
+        - title: YouTube UK
+          logo: https://www.gstatic.com/youtube/img/branding/youtube-logo/svg/youtube-logo-red.svg
+          url: https://www.youtube.com/
+          description: The world's largest video-sharing platform, used by UK users for watching music videos, vlogs, educational content, live streams, and entertainment clips.
+        - title: Netflix UK
+          logo: https://www.netflix.com/favicon.ico
+          url: https://www.netflix.com/uk/
+          description: Leading subscription-based streaming service offering a vast library of UK and international TV shows, movies, documentaries, and original productions.
+        - title: BBC iPlayer
+          logo: https://www.bbc.co.uk/iplayer/favicon.ico
+          url: https://www.bbc.co.uk/iplayer
+          description: BBC's free on-demand streaming platform for UK users, providing access to live and catch-up TV programs, films, and radio shows from BBC channels.
+        - title: Amazon Prime Video UK
+          logo: https://m.media-amazon.com/images/G/01/AmazonVideo/favicon_144x144.CB485942159.png
+          url: https://www.amazon.co.uk/Prime-Video/b?node=3010086031
+          description: Streaming service included with Amazon Prime membership, offering UK-exclusive content, movies, TV series, and live sports (e.g., Premier League).
+        - title: Disney+ UK
+          logo: https://www.disneyplus.com/favicon.ico
+          url: https://www.disneyplus.com/
+          description: Family-friendly streaming platform with content from Disney, Pixar, Marvel, Star Wars, and National Geographic, popular among UK households.
+        - title: ITV Hub
+          logo: https://www.itv.com/favicon.ico
+          url: https://www.itv.com/hub
+          description: Free on-demand service for UK broadcaster ITV, featuring catch-up TV from ITV channels (ITV1, ITV2, ITVBe), exclusive shows, and live streaming.
+        - title: Channel 4 (All 4)
+          logo: https://www.channel4.com/favicon.ico
+          url: https://www.channel4.com/
+          description: UK public service broadcaster's platform, offering free on-demand access to Channel 4 shows, documentaries, films, and original digital content.
+        - title: Sky Go
+          logo: https://www.sky.com/favicon.ico
+          url: https://www.sky.com/sky-tv/apps/sky-go
+          description: Streaming app for Sky TV subscribers in the UK, allowing access to live TV channels, on-demand content, and recorded shows on multiple devices.
+        - title: Twitch UK
+          logo: https://static.twitchcdn.net/assets/favicon-32-e29e256c157142c94346.png
+          url: https://www.twitch.tv/
+          description: Leading live-streaming platform focused on gaming, with UK users watching/streaming gameplay, esports tournaments, and creative content.
+        - title: NOW (NOW TV)
+          logo: https://www.nowtv.com/favicon.ico
+          url: https://www.nowtv.com/
+          description: Flexible streaming service in the UK, offering pay-as-you-go access to movies, TV shows, sports (e.g., Sky Sports), and kids' content without a long contract.
+
+    - term: gaming and esports
       links:
         - title: 百度贴吧
           logo: 百度贴吧.jpg
@@ -158,10 +270,10 @@
           description: 台服 AVA 战地之王。
    
       
-- taxonomy: 素材资源
+- taxonomy: material resources
   icon: far fa-folder-open fa-lg
   list:
-    - term: 网盘资源
+    - term: cloud storage resources
       links:
         - title: 百度网盘
           logo: 百度网盘.jpg
@@ -179,7 +291,7 @@
           logo: 坚果云.png
           usrl: https://www.jianguoyun.com/
           description: 坚果云官网。
-    - term: 图标素材
+    - term: icon resources
       links:
         - title: Iconfinder
           logo: Iconfinder.png
@@ -233,7 +345,7 @@
           logo: simplelineicons.png
           url: http://simplelineicons.com/
           description: Simple line Icons pack.
-    - term: 图标设计
+    - term: icon design
       links:
         - title: Iconsfeed
           logo: iconsfeed.png
@@ -251,7 +363,7 @@
           logo: InstantLogoSearch.png
           url: http://instantlogosearch.com/
           description: Search & download thousands of logos instantly.
-    - term: 平面素材
+    - term: graphic resources
       links:
         - title: freepik
           logo: freepik.png
@@ -305,7 +417,7 @@
           logo: sccnn.png
           url: http://www.sccnn.com/
           description: 免费素材共享平台。
-    - term: 字体资源
+    - term: font resources
       links:
         - title: Google Font
           url: https://fonts.google.com/
@@ -369,10 +481,10 @@
           description: Abstract Fonts (13,866 free fonts).      
       
 
-- taxonomy: 开发设计
+- taxonomy: development & design
   icon: fas fa-tools fa-lg
   list: 
-    - term: 图形创意
+    - term: graphic ideation
       links:
         - title: photoshop
           url: https://www.adobe.com/cn/products/photoshop.html
@@ -402,7 +514,7 @@
           url: https://www.blender.org/
           logo: blender.png
           description: Blender is the free and open source 3D creation suite.
-    - term: 界面设计
+    - term: interface design
       links:
         - title: Sketch
           url: https://sketchapp.com/
@@ -428,7 +540,7 @@
           url: https://www.figma.com/
           logo: figma.png
           description: Design, prototype, and gather feedback all in one place with Figma.
-    - term: 在线配色
+    - term: online color coordination
       links:
         - title: khroma
           url: http://khroma.co/generator/
@@ -490,7 +602,7 @@
           url: http://www.vanschneider.com/colors
           logo: vanschneider.png
           description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
-    - term: 在线工具
+    - term: online tools
       links:
         - title: tinypng
           url: https://tinypng.com/
@@ -521,7 +633,7 @@
           logo: gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
         
-    - term: 谷歌插件
+    - term: google plugins
       links:
         - title: wappalyzer
           url: https://www.wappalyzer.com/
@@ -549,7 +661,7 @@
           description: Discover the world's most beautiful places at every opened tab.
 
 
-- taxonomy: 资讯学习
+- taxonomy: information & learning
   icon: fas fa-pencil-alt fa-lg
   list: 
     - term: 资讯书籍
