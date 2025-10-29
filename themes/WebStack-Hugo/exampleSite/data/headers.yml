@@ -1,0 +1,8 @@
+- item: front
+  icon: fa fa-home
+  link: "./"
+
+- item: author
+  icon: fa fa-book
+  link: https://weiyan.cc/
+
