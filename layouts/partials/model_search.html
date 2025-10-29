@@ -1,0 +1,129 @@
+<div class="modal fade search-modal" id="search-modal">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div id="search" class="s-search mx-auto my-4">
+          <div id="search-list" class="hide-type-list">
+            <div class="s-type">
+              <span></span>
+              <div class="s-type-list">
+                <label for="m_type-baidu" data-id="group-a">favourite</label>
+                <label for="m_type-baidu1" data-id="group-b">search</label>
+                <label for="m_type-zhihu" data-id="group-d">community</label>
+                <label for="m_type-taobao1" data-id="group-e">lifestyle</label>
+                <label for="m_type-zhaopin" data-id="group-f">job</label>
+              </div>
+            </div>
+            <div class="search-group group-a"><span class="type-text text-muted">favourite</span>
+              <ul class="search-type">
+                <li><input hidden="" type="radio" name="type2"
+                           id="m_type-google" value="https://www.google.co.uk/search?q=" data-placeholder="Google search">
+                  <label for="m_type-google"><span class="text-muted">Google</span></label></li>
+                <li><input hidden="" type="radio" name="type2"
+                           id="m_type-bing" value="https://www.bing.com/search?q=" data-placeholder="Mircosoft bing search">
+                  <label for="m_type-bing"><span class="text-muted">Bing</span></label></li>
+                <li><input checked="checked" hidden="" type="radio" name="type2"
+                           id="m_type-baidu" value="https://www.baidu.com/s?wd=" data-placeholder="百度一下，你就知道">
+                  <label for="m_type-baidu"><span class="text-muted">Baidu</span></label></li>
+                <li><input hidden="" type="radio" name="type2"
+                           id="m_type-anaconda" value="https://uk.search.yahoo.com/search?q=" data-placeholder="Yahoo search">
+                  <label for="m_type-anaconda"><span class="text-muted">Yahoo UK</span></label></li>
+                <li><input hidden="" type="radio" name="type2"
+                           id="m_type-pubmed" value="https://www.ask.com/web?q=" data-placeholder="Ask">
+                  <label for="m_type-pubmed"><span class="text-muted">Ask</span></label></li>
+              </ul>
+            </div>
+            <div class="search-group group-b"><span class="type-text text-muted">search</span>
+              <ul class="search-type">
+                <li><input hidden="" type="radio" name="type2" id="m_type-google1"
+                           value="https://www.google.co.uk/search?q=" data-placeholder="Google search"><label
+                        for="m_type-google1"><span class="text-muted">Google</span></label></li>
+                <li><input hidden="" type="radio" name="type2" id="m_type-bing1"
+                           value="https://www.bing.com/search?q=" data-placeholder="Mircosoft bing search"><label
+                        for="m_type-bing1"><span class="text-muted">Bing</span></label></li>
+
+                <li><input hidden="" type="radio" name="type2" id="m_type-baidu1"
+                           value="https://www.baidu.com/s?wd=" data-placeholder="百度一下，你就知道"><label
+                        for="m_type-baidu1"><span class="text-muted">Baidu</span></label></li>
+              </ul>
+            </div>
+            <div class="search-group group-d"><span class="type-text text-muted">community</span>
+              <ul class="search-type">
+                <li><input hidden="" type="radio" name="type2" id="m_type-zhihu"
+                           value="https://www.quora.com/search?q=" data-placeholder="quora">
+                <li><input hidden="" type="radio" name="type2" id="m_type-weibo"
+                           value="https://twitter.com/search?q=" data-placeholder="twitter">
+                  <label for="m_type-weibo"><span class="text-muted">twitter</span></label></li>
+                <li><input hidden="" type="radio" name="type2" id="m_type-douban"
+                           value="https://letterboxd.com/search/?q=" data-placeholder="letterboxd">
+                  <label for="m_type-douban"><span class="text-muted">letterboxd</span></label></li>
+              </ul>
+            </div>
+            <div class="search-group group-e"><span class="type-text text-muted">lifestyle</span>
+              <ul class="search-type">
+                <li><input hidden="" type="radio" name="type2" id="m_type-taobao1"
+                           value="https://www.amazon.co.uk/s?k=" data-placeholder="Amazon UK">
+                  <label for="m_type-taobao1"><span class="text-muted">Amazon UK</span></label></li>
+                <li><input hidden="" type="radio" name="type2" id="m_type-jd"
+                           value="https://www.tesco.com/groceries/en-GB/search?query=" data-placeholder="tesco">
+                  <label for="m_type-jd"><span class="text-muted">tesco</span></label></li>
+                <li><input hidden="" type="radio" name="type2" id="m_type-xiachufang"
+                           value="https://www.sainsburys.co.uk/groceries?query=" data-placeholder="sainsburys">
+                  <label for="m_type-xiachufang"><span class="text-muted">sainsburys</span></label></li>
+                <li><input hidden="" type="radio" name="type2" id="m_type-xiangha"
+                           value="https://www.asos.com/search/?q=" data-placeholder="asos">
+                  <label for="m_type-xiangha"><span class="text-muted">asos</span></label></li>
+                <li><input hidden="" type="radio" name="type2" id="m_type-12306"
+                           value="https://www.argos.co.uk/search/?q=" data-placeholder="argos">
+                  <label for="m_type-12306"><span class="text-muted">argos</span></label></li>
+                <li><input hidden="" type="radio" name="type2" id="m_type-qunar"
+                           value="https://www.ebay.co.uk/sch/i.html?_nkw=" data-placeholder="ebay">
+                  <label for="m_type-qunar"><span class="text-muted">ebay</span></label></li>
+              </ul>
+            </div>
+            <div class="search-group group-f"><span class="type-text text-muted">job</span>
+              <ul class="search-type">
+                <li><input hidden="" type="radio" name="type2" id="m_type-zhaopin"
+                           value="https://sou.zhaopin.com/jobs/searchresult.ashx?kw=" data-placeholder="智联招聘">
+                  <label for="m_type-zhaopin"><span class="text-muted">智联招聘</span></label></li>
+                <li><input hidden="" type="radio" name="type2" id="m_type-51job"
+                           value="https://search.51job.com/?" data-placeholder="前程无忧">
+                  <label for="m_type-51job"><span class="text-muted">前程无忧</span></label></li>
+                <li><input hidden="" type="radio" name="type2" id="m_type-lagou"
+                           value="https://www.lagou.com/jobs/list_" data-placeholder="拉钩网">
+                  <label for="m_type-lagou"><span class="text-muted">拉钩网</span></label></li>
+                <li><input hidden="" type="radio" name="type2" id="m_type-liepin"
+                           value="https://www.liepin.com/zhaopin/?key=" data-placeholder="猎聘网">
+                  <label for="m_type-liepin"><span class="text-muted">猎聘网</span></label></li>
+              </ul>
+            </div>
+          </div>
+          <form action="https://nav.iowen.cn?s=" method="get" target="_blank" class="super-search-fm">
+            <input type="text" id="m_search-text" class="form-control smart-tips search-key" zhannei=""
+                   autocomplete="off" placeholder="输入关键字搜索" style="outline:0">
+            <button type="submit"><i class="iconfont icon-search"></i></button>
+          </form>
+          <div class="card search-smart-tips" style="display: none">
+            <ul></ul>
+          </div>
+        </div>
+
+        <!--div class="px-1 mb-3">
+            <i class="text-xl iconfont icon-hot mr-1" style="color:#f1404b;"></i>
+            <span class="h6">热门推荐： </span>
+        </div>
+        <div class="mb-3">
+            <li id="menu-item-332" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-332">
+                <a href="tag/黑洞.html">黑洞</a></li>
+            <li id="menu-item-333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-333">
+                <a href="E5AFBCE888AAE4B8BBE9A298.html">导航主题</a></li>
+            <li id="menu-item-335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-335">
+                <a href="E59BBEE6A087.html">图标</a></li>
+        </div-->
+      </div>
+      <div style="position: absolute;bottom: -40px;width: 100%;text-align: center;">
+        <a href="javascript:" data-dismiss="modal"><i class="iconfont icon-close-circle icon-2x" style="color: #fff;"></i></a>
+      </div>
+    </div>
+  </div>
+</div>
