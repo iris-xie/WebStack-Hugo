@@ -8,21 +8,21 @@
                     rel="search" one-link-mark="yes">
                     <i class="iconfont icon-search"></i>
                 </a>
-                <a href="https://www.yuque.com/shenweiyan" class="btn rounded-circle kefu m-1" target="_blank" data-toggle="tooltip" data-placement="left" title="联系我们">
+               <!-- <a href="https://www.yuque.com/shenweiyan" class="btn rounded-circle kefu m-1" target="_blank" data-toggle="tooltip" data-placement="left" title="contact us">
                     <i class="mode-ico iconfont icon-qq"></i>
                 </a>
-                <!-- 右下角搜索 end -->
+                &lt;!&ndash; 右下角搜索 end &ndash;&gt;
                 {{ if $.Site.Params.nightMode }} 
                 <a href="javascript:" onclick="window.location.href='javascript:switchNightMode()'" class="btn rounded-circle switch-dark-mode m-1" id="yejian"
-                    data-toggle="tooltip" data-placement="left" title="夜间模式">
+                    data-toggle="tooltip" data-placement="left" title="night mode">
                     <i class="mode-ico iconfont icon-light"></i>
                 </a>
 		{{ else }}
 		<a href="javascript:" onclick="window.location.href='javascript:switchNightMode()'" class="btn rounded-circle switch-dark-mode m-1" id="yejian"
-                    data-toggle="tooltip" data-placement="left" title="日间模式">
+                    data-toggle="tooltip" data-placement="left" title="day mode">
                     <i class="mode-ico iconfont icon-night"></i>
                 </a>
-                {{ end }}
+                {{ end }}-->
             </div>
             <div class="footer-inner">
                 <div class="footer-text">{{ replace $.Site.Params.footer.copyright "{year}" now.Year | markdownify }}</div>

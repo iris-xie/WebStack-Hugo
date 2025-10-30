@@ -198,7 +198,7 @@
         alert("网盘密码已复制，点“确定”进入下载页面。");
     });
 
-    //夜间模式
+    //night mode
     $(document).on('click', '.switch-dark-mode', function(event) {
         event.preventDefault();
         $.ajax({
@@ -220,17 +220,17 @@
     function switch_mode(){
         if($('body').hasClass('io-black-mode')){
             if($(".switch-dark-mode").attr("data-original-title"))
-                $(".switch-dark-mode").attr("data-original-title","日间模式");
+                $(".switch-dark-mode").attr("data-original-title","day mode");
             else
-                $(".switch-dark-mode").attr("title","日间模式");
+                $(".switch-dark-mode").attr("title","day mode");
             $(".mode-ico").removeClass("icon-night");
             $(".mode-ico").addClass("icon-light");
         }
         else{
             if($(".switch-dark-mode").attr("data-original-title"))
-                $(".switch-dark-mode").attr("data-original-title","夜间模式");
+                $(".switch-dark-mode").attr("data-original-title","night mode");
             else
-                $(".switch-dark-mode").attr("title","夜间模式");
+                $(".switch-dark-mode").attr("title","night mode");
             $(".mode-ico").removeClass("icon-light");
             $(".mode-ico").addClass("icon-night");
         }

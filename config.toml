@@ -1,6 +1,6 @@
 baseURL               = "https://webstack-hugo.weiyan.cc/"
 languageCode          = "zh-CN"
-title                 = "British Website Navigator"
+title                 = "UK Website Navigator"
 description           = "Discover a comprehensive British website navigation. Easily access news, academic, entertainment sites in UK. Save your online searching time now!"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
@@ -11,9 +11,9 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 [params]
     author        = "ares xie"
-    description   = "British Website Navigator: Your Quick Access to UK's Best Sites"
+    description   = "UK Website Navigator: Your Quick Access to UK's Best Sites"
     enablePreLoad = true					# 网站完全打开前预加载动画
-    textPreLoad   = "British Website Navigator"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    textPreLoad   = "UK Website Navigator"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false					# 默认展开左侧边导航栏
     logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
     defaultLogo   = "assets/images/logos/default.webp"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
@@ -29,16 +29,16 @@ publishDir            = "public"				# 站点静态文件保存目录
     GoogleAdsClient = ''					# Google AdSense 
 
 [params.qweather]
-    key = "085791e805a24491b43b06cf58ab31e7"
+    key = ""
 
 [params.images]
-    favicon           = "assets/images/bi-favicon.png"
+    favicon           = "assets/images/logo-favicon.png"
     searchImageL      = "assets/images/bg-dna.jpg"		# 搜索部分浅色背景图
     searchImageD      = "assets/images/bg-dna.jpg"		# 搜索部分深色背景图
     logoExpandLight   = "assets/images/bi-expand-dark.png"
     logoExpandDark    = "assets/images/bi-expand-light.png"
-    logoCollapseLight = "assets/images/bi.png"
-    logoCollapseDark  = "assets/images/bi.png"
+    logoCollapseLight = "assets/images/logo.png"
+    logoCollapseDark  = "assets/images/logo.png"
     
 [markup.goldmark.renderer]
     unsafe = true

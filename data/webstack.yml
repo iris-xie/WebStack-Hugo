@@ -1,6 +1,6 @@
 ---
 
-- taxonomy: Frequently Used Recommendations
+- taxonomy: favourite
   icon: far fa-star
   links: 
     - title: Google UK
@@ -8,15 +8,15 @@
       url: https://www.google.co.uk/
       description: The UK-specific version of Google, offering tailored search, maps, Gmail, and other services for British users.
     - title: YouTube
-      logo: https://www.gstatic.com/youtube/img/branding/youtube-logo/svg/youtube-logo-red.svg
-      url: https://www.youtube.com/
+      logo: https://favicon.im/youtube.com/
+      url: https://favicon.im/youtube.com/
       description: The world's largest video platform, used by UK users for entertainment, education, news, and content creation.
     - title: Facebook
-      logo: https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg
+      logo: https://favicon.im/facebook.com
       url: https://www.facebook.com/
       description: A leading social media site where UK users connect with friends, share updates, and join community groups.
     - title: Amazon UK
-      logo: https://m.media-amazon.com/images/G/02/gc/designs/livepreview/amazon-logo-primary-1x.CB628458337.png
+      logo: https://favicon.im/www.amazon.co.uk
       url: https://www.amazon.co.uk/
       description: UK branch of Amazon, offering online shopping for electronics, books, household goods, and fast delivery.
     - title: BBC
@@ -24,11 +24,11 @@
       url: https://www.bbc.co.uk/
       description: UK's national public broadcaster, providing news, TV schedules, radio, and educational content.
     - title: WhatsApp
-      logo: https://static.whatsapp.net/rsrc.php/v3/yP/r/628aS2M-Qj1.svg
+      logo: https://favicon.im/www.whatsapp.com
       url: https://www.whatsapp.com/
       description: Popular messaging app for free text, voice, and video calls among UK individuals and groups.
     - title: Instagram
-      logo: https://static.cdninstagram.com/rsrc.php/v3/yx/r/76Z323sMZTI.svg
+      logo: https://favicon.im/www.instagram.com
       url: https://www.instagram.com/
       description: Visual social platform focused on photos/videos, used by UK users for sharing moments and following influencers.
     - title: X (Twitter)
@@ -40,7 +40,7 @@
       url: https://www.ebay.co.uk/
       description: Online marketplace for UK users to buy/sell new/used items like electronics, fashion, and collectibles.
     - title: LinkedIn UK
-      logo: https://static.licdn.com/aero-v1/sc/h/83h22zrdx4ep1f09ua7118fr4
+      logo: https://favicon.im/uk.linkedin.com
       url: https://uk.linkedin.com/
       description: Professional networking platform for UK job searches, career development, and business connections.
     - title: TikTok
@@ -48,7 +48,7 @@
       url: https://www.tiktok.com/
       description: Short-form video app popular in the UK for creative content, trends, music, and viral challenges.
     - title: Google Maps
-      logo: https://www.gstatic.com/images/branding/product/1x/maps_2020q4_48dp.png
+      logo: https://favicon.im/www.google.co.uk
       url: https://www.google.co.uk/maps
       description: Mapping service for UK users to get directions, find local businesses, and check traffic.
     - title: Gmail
@@ -68,7 +68,7 @@
       url: https://www.metro.co.uk/
       description: UK tabloid website covering news, entertainment, sports, and lifestyle content.
     - title: The Guardian
-      logo: https://assets.guim.co.uk/images/favicons/guardian/apple-touch-icon-180x180.png
+      logo: https://favicon.im/www.theguardian.com
       url: https://www.theguardian.com/uk
       description: Respected UK broadsheet website with in-depth news, opinion, and cultural coverage.
     - title: Sky News
@@ -100,7 +100,7 @@
       url: https://www.boots.com/
       description: UK's leading pharmacy and beauty retailer, with online shopping for healthcare and cosmetics.
     - title: BBC News
-      logo: https://www.bbc.co.uk/news/favicon.ico
+      logo: https://favicon.im/www.bbc.co.uk
       url: https://www.bbc.co.uk/news
       description: BBC's dedicated news site with up-to-date UK and international news, science, and tech.
     - title: Google Drive
@@ -112,7 +112,7 @@
       url: https://www.nationalrail.co.uk/
       description: Official UK rail service with timetables, ticket booking, and travel disruption updates.
     - title: BBC iPlayer
-      logo: https://www.bbc.co.uk/iplayer/favicon.ico
+      logo: https://favicon.im/www.bbc.co.uk
       url: https://www.bbc.co.uk/iplayer
       description: BBC's on-demand service for UK users to watch live and catch-up TV, films, and radio.
     - title: Marks & Spencer (M&S)
@@ -124,8 +124,292 @@
       url: https://uk.yahoo.com/
       description: UK version of Yahoo, providing search, news, email, and lifestyle content for British users.
 
+- taxonomy: lifestyle
+  icon: fas fa-film fa-lg
+  list:
+    - term: shopping
+      links:
+        - title: Amazon UK
+          logo: https://favicon.im/www.amazon.co.uk
+          url: https://www.amazon.co.uk/s?k=
+          description: The UK's leading all-in-one shopping platform, offering millions of products including electronics, fashion, home goods, groceries (via Amazon Fresh), and more. It provides fast delivery options (Prime membership) and reliable customer service.
+        - title: Tesco
+          logo: https://www.tesco.com/favicon.ico
+          url: https://www.tesco.com/groceries/en-GB/search?query=
+          description: The UK's largest supermarket chain, focusing on groceries, fresh produce, and household essentials. It also offers clothing (F&F), electronics, and financial services, with online delivery and in-store pickup options.
+        - title: ASOS
+          logo: https://www.asos.com/favicon.ico
+          url: https://www.asos.com/search/?q=
+          description: A leading online fashion and beauty retailer targeting young adults. It stocks thousands of brands (including its own ASOS Design) and offers fast shipping, free returns, and a focus on trendy, affordable styles.
+        - title: John Lewis & Partners
+          logo: https://www.johnlewis.com/favicon.ico
+          url: https://www.johnlewis.com/search?q=
+          description: A high-end department store chain known for quality and customer service. It sells homeware, furniture, fashion, electronics, and gifts, with a strong focus on sustainability and ethical sourcing.
+        - title: Sainsbury's
+          logo: https://www.sainsburys.co.uk/favicon.ico
+          url: https://www.sainsburys.co.uk/groceries/search?query=
+          description: One of the UK's top supermarkets, offering groceries, fresh food, and household items. It also owns Argos (for general merchandise) and provides online delivery, click-and-collect, and fuel services.
+        - title: Marks & Spencer (M&S)
+          logo: https://www.marksandspencer.com/favicon.ico
+          url: https://www.marksandspencer.com/search?q=
+          description: A iconic UK retailer known for clothing (including lingerie and formal wear), high-quality food (M&S Food), and home products. It emphasizes sustainability and traditional British style.
+        - title: eBay UK
+          logo: https://www.ebay.co.uk/favicon.ico
+          url: https://www.ebay.co.uk/sch/i.html?_nkw=
+          description: A popular online marketplace for new and used items, spanning fashion, electronics, home goods, and collectibles. It allows both individual sellers and businesses to trade, with auction and fixed-price options.
+        - title: Argos
+          logo: https://www.argos.co.uk/favicon.ico
+          url: https://www.argos.co.uk/search?q=
+          description: A leading general merchandise retailer owned by Sainsbury's. It sells electronics, toys, homeware, furniture, and appliances, with fast in-store pickup (via "Click & Collect") and same-day delivery.
+        - title: Boots UK
+          logo: https://www.boots.com/favicon.ico
+          url: https://www.boots.com/search?q=
+          description: The UK's largest pharmacy and health & beauty retailer. It offers prescription services, cosmetics, skincare, vitamins, and baby products, with loyalty rewards (Boots Advantage Card) for frequent shoppers.
+        - title: Next
+          logo: https://favicon.im/www.next.co.uk
+          url: https://www.next.co.uk/search?w=
+          description: A major fashion and homeware retailer with a focus on affordable, classic styles. It sells men's, women's, and children's clothing, as well as furniture and home accessories, with online ordering and in-store returns.
 
-- taxonomy: scientific research and office operations
+    - term: audio and video
+      links:
+        - title: YouTube UK
+          logo: https://favicon.im/www.youtube.com
+          url: https://www.youtube.com/
+          description: The world's largest video-sharing platform, used by UK users for watching music videos, vlogs, educational content, live streams, and entertainment clips.
+        - title: Netflix UK
+          logo: https://www.netflix.com/favicon.ico
+          url: https://www.netflix.com/uk/
+          description: Leading subscription-based streaming service offering a vast library of UK and international TV shows, movies, documentaries, and original productions.
+        - title: BBC iPlayer
+          logo: https://favicon.im/www.bbc.co.uk
+          url: https://www.bbc.co.uk/iplayer
+          description: BBC's free on-demand streaming platform for UK users, providing access to live and catch-up TV programs, films, and radio shows from BBC channels.
+        - title: Amazon Prime Video UK
+          logo: https://favicon.im/www.amazon.co.uk
+          url: https://www.amazon.co.uk/Prime-Video/b?node=3010086031
+          description: Streaming service included with Amazon Prime membership, offering UK-exclusive content, movies, TV series, and live sports (e.g., Premier League).
+        - title: Disney+ UK
+          logo: https://www.disneyplus.com/favicon.ico
+          url: https://www.disneyplus.com/
+          description: Family-friendly streaming platform with content from Disney, Pixar, Marvel, Star Wars, and National Geographic, popular among UK households.
+        - title: ITV Hub
+          logo: https://favicon.im/www.itv.com
+          url: https://www.itv.com/hub
+          description: Free on-demand service for UK broadcaster ITV, featuring catch-up TV from ITV channels (ITV1, ITV2, ITVBe), exclusive shows, and live streaming.
+        - title: Channel 4 (All 4)
+          logo: https://www.channel4.com/favicon.ico
+          url: https://www.channel4.com/
+          description: UK public service broadcaster's platform, offering free on-demand access to Channel 4 shows, documentaries, films, and original digital content.
+        - title: Sky Go
+          logo: https://www.sky.com/favicon.ico
+          url: https://www.sky.com/sky-tv/apps/sky-go
+          description: Streaming app for Sky TV subscribers in the UK, allowing access to live TV channels, on-demand content, and recorded shows on multiple devices.
+        - title: Twitch UK
+          logo: https://favicon.im/www.twitch.tv
+          url: https://www.twitch.tv/
+          description: Leading live-streaming platform focused on gaming, with UK users watching/streaming gameplay, esports tournaments, and creative content.
+        - title: NOW (NOW TV)
+          logo: https://favicon.im/www.nowtv.com
+          url: https://www.nowtv.com/
+          description: Flexible streaming service in the UK, offering pay-as-you-go access to movies, TV shows, sports (e.g., Sky Sports), and kids' content without a long contract.
+
+    - term: gaming and esports
+      links:
+        - title: Twitch
+          logo: https://favicon.im/www.twitch.tv
+          url: https://www.twitch.tv/
+          description: Leading live-streaming platform for gaming, where UK users watch esports tournaments, playthroughs by streamers, and interact with gaming communities.
+        - title: Steam
+          logo: https://store.steampowered.com/favicon.ico
+          url: https://store.steampowered.com/
+          description: Popular digital distribution platform for PC games, offering UK users access to purchase, download, and play thousands of games, plus social features like friend lists.
+        - title: Rockstar Games Social Club
+          logo: https://favicon.im/socialclub.rockstargames.com
+          url: https://socialclub.rockstargames.com/
+          description: Online platform for Rockstar Games titles (e.g., Grand Theft Auto V, Red Dead Redemption 2), enabling UK players to track progress, join crews, and access exclusive content.
+        - title: Epic Games Store
+          logo: https://favicon.im/store.epicgames.com
+          url: https://store.epicgames.com/
+          description: Digital game store offering free weekly games and exclusive titles, popular among UK users for its cost-saving options and access to games like Fortnite.
+        - title: EA Play
+          logo: https://favicon.im/www.ea.com
+          url: https://www.ea.com/en-gb/ea-play
+          description: Subscription service for Electronic Arts (EA) games, giving UK players access to a library of titles (e.g., FIFA, Battlefield) and early access to new releases.
+        - title: Ubisoft Connect
+          logo: https://favicon.im/ubisoftconnect.com
+          url: https://ubisoftconnect.com/
+          description: Online service for Ubisoft games (e.g., Assassin’s Creed, Rainbow Six Siege), allowing UK users to sync game progress, earn rewards, and play multiplayer modes.
+        - title: Minecraft.net
+          logo: https://favicon.im/www.minecraft.net
+          url: https://www.minecraft.net/
+          description: Official website for Minecraft, where UK players download the game, access community creations, join servers, and explore content for both Java and Bedrock editions.
+        - title: GOG.com
+          logo: https://www.gog.com/favicon.ico
+          url: https://www.gog.com/
+          description: Digital game store focused on classic and DRM-free games, popular among UK users for its retro titles and commitment to no digital rights management restrictions.
+        - title: RuneScape
+          logo: https://www.runescape.com/favicon.ico
+          url: https://www.runescape.com/
+          description: Official site for the long-running British MMORPG RuneScape, where UK players access both the classic "Old School RuneScape" and the modern "RuneScape 3" versions.
+        - title: GameFAQs
+          logo: https://gamefaqs.gamespot.com/favicon.ico
+          url: https://gamefaqs.gamespot.com/
+          description: Gaming resource site with walkthroughs, cheats, reviews, and forums, widely used by UK players to get help with challenging games and discuss gaming topics.
+
+- taxonomy: learning
+  icon: fas fa-pencil-alt fa-lg
+  list:
+    - term: reading
+      links:
+        - title: Amazon Kindle Store
+          logo: https://www.amazon.co.uk/favicon.ico
+          url: https://www.amazon.co.uk/Kindle-eBooks/b?ie=UTF8&node=341689031
+          description: Leading digital bookstore for Kindle devices and apps, offering UK users millions of eBooks (including bestsellers, classics, and self-published works) for purchase or rental.
+        - title: Project Gutenberg
+          logo: https://www.gutenberg.org/favicon.ico
+          url: https://www.gutenberg.org/
+          description: Free digital library with over 70,000 public domain eBooks, allowing UK users to read or download classic works (no longer under copyright) in multiple formats like EPUB and PDF.
+        - title: Google Books
+          logo: https://books.google.co.uk/favicon.ico
+          url: https://books.google.co.uk/
+          description: Service from Google that lets UK users search millions of books, preview excerpts, read full public domain titles, and purchase or borrow available eBooks.
+        - title: The British Library Online
+          logo: https://www.bl.uk/favicon.ico
+          url: https://www.bl.uk/
+          description: Digital platform of the UK’s national library, offering UK users free access to historical documents, rare books, digitized manuscripts, and online exhibitions for research and leisure reading.
+        - title: Audible UK
+          logo: https://www.audible.co.uk/favicon.ico
+          url: https://www.audible.co.uk/
+          description: Leading audiobook service, providing UK users with thousands of audiobooks (including bestsellers, podcasts, and original content) via subscription or one-time purchase.
+        - title: Wattpad
+          logo: https://www.wattpad.com/favicon.ico
+          url: https://www.wattpad.com/
+          description: Community-driven platform for reading and sharing stories, where UK users can access free user-generated fiction (romance, fantasy, etc.) and connect with authors.
+        - title: Scribd
+          logo: https://favicon.im/www.scribd.com
+          url: https://www.scribd.com/
+          description: Subscription-based digital library, offering UK users unlimited access to eBooks, audiobooks, magazines, and documents across genres like fiction, business, and self-help.
+        - title: Open Library
+          logo: https://openlibrary.org/favicon.ico
+          url: https://openlibrary.org/
+          description: Non-profit digital library aiming to "one web page per book," allowing UK users to borrow free digital copies of books (via controlled digital lending) and access metadata for millions of titles.
+        - title: The Guardian Books
+          logo: https://www.theguardian.com/favicon.ico
+          url: https://www.theguardian.com/books
+          description: Books section of The Guardian newspaper, providing UK users with book reviews, author interviews, literary news, and curated reading lists for fiction and non-fiction.
+        - title: JSTOR
+          logo: https://www.jstor.org/favicon.ico
+          url: https://www.jstor.org/
+          description: Academic library for researchers and students in the UK, offering access to peer-reviewed journals, books, and primary sources in fields like humanities, social sciences, and sciences (some content free, some subscription-based).
+    - term: blog
+      links:
+        - title: Reddit UK
+          logo: https://www.reddit.com/favicon.ico
+          url: https://www.reddit.com/r/unitedkingdom/
+          description: Community-driven forum (subreddit) focused on UK topics, where users discuss news, culture, local events, and daily life, with subsections for specific interests like food, travel, and politics.
+        - title: Mumsnet
+          logo: https://www.mumsnet.com/favicon.ico
+          url: https://www.mumsnet.com/
+          description: Leading UK parenting forum and blog platform, where parents share advice on childcare, family life, and product recommendations, with active discussion threads and expert contributions.
+        - title: MoneySavingExpert Forums
+          logo: https://favicon.im/forums.moneysavingexpert.com
+          url: https://forums.moneysavingexpert.com/
+          description: Finance-focused forum, helping UK users discuss budgeting, debt management, savings, and deals, with tips from experts and community members to cut costs and save money.
+        - title: The Student Room
+          logo: https://www.thestudentroom.co.uk/favicon.ico
+          url: https://www.thestudentroom.co.uk/
+          description: Forum and blog for UK students, covering topics like exam preparation, university applications, student life, and career advice, with a large community of current and prospective students.
+        - title: PistonHeads
+          logo: https://www.pistonheads.com/favicon.ico
+          url: https://www.pistonheads.com/
+          description: UK’s top automotive blog and forum, where car enthusiasts discuss vehicle reviews, modifications, buying/selling tips, and motorsport news, with a focus on performance and classic cars.
+        - title: Netmums
+          logo: https://favicon.im/www.netmums.com
+          url: https://www.netmums.com/
+          description: Parenting community with blogs and forums, offering UK families advice on pregnancy, childcare, and family activities, plus local group meetups and support for working parents.
+        - title: UK Business Forums
+          logo: https://www.ukbusinessforums.co.uk/favicon.ico
+          url: https://www.ukbusinessforums.co.uk/
+          description: Forum for UK small business owners and entrepreneurs, where users share tips on startup strategies, marketing, finance, and legal issues, with networking opportunities and expert insights.
+        - title: Trip Advisor UK Forums
+          logo: https://www.tripadvisor.co.uk/favicon.ico
+          url: https://www.tripadvisor.co.uk/Forums
+          description: Travel discussion forum, helping UK travelers share destination reviews, trip planning advice, and travel hacks, with forums for specific regions (UK, Europe, global) and travel types (family, budget).
+        - title: What Hi-Fi? Forums
+          logo: https://www.whathifi.com/favicon.ico
+          url: https://www.whathifi.com/forums
+          description: Audio-visual and tech forum, where UK users discuss reviews and recommendations for speakers, TVs, headphones, and home cinema systems, with expert guidance on product choices.
+        - title: BabyCenter UK Community
+          logo: https://www.babycenter.co.uk/favicon.ico
+          url: https://www.babycenter.co.uk/community/
+          description: Parenting forum and blog focused on pregnancy and early childhood, offering UK parents support on baby development, feeding, sleep, and postnatal care, with a friendly community of peers.
+    - term: design specifications
+      links:
+        - title: Design Guidelines
+          url: http://designguidelines.co/
+          logo: designguidelines.png
+          description: Design Guidelines &mdash; The way products are built.
+        - title: Awesome design systems
+          url: https://github.com/alexpate/awesome-design-systems
+          logo: awesome_design_systems.png
+          description:  A collection of awesome design systems.
+        - title: Material Design
+          url: https://material.io/guidelines/
+          logo: Material_Design.png
+          description: Introduction - Material Design.
+        - title: Human Interface Guidelines
+          url: https://developer.apple.com/ios/human-interface-guidelines
+          logo: human_interface_guidelines.png
+          description: Human Interface Guidelines iOS.
+        - title: Photoshop Etiquette
+          url: http://viggoz.com/photoshopetiquette/
+          logo: photoshopetiquette.png
+          description: Photoshop Etiquette - Web Design Guide.
+    - term: MOOC
+      links:
+        - title: Coursera
+          logo: https://favicon.im/www.coursera.org
+          url: https://www.coursera.org/
+          description: Global MOOC platform partnering with top universities (e.g., Oxford, Stanford) and companies, offering UK users access to free/paid courses, certificates, and degrees in fields like tech, business, and humanities.
+        - title: edX
+          logo: https://www.edx.org/favicon.ico
+          url: https://www.edx.org/
+          description: Non-profit MOOC platform founded by Harvard and MIT, providing UK learners with free/paid courses, professional certificates, and micro-degrees in subjects such as engineering, data science, and art.
+        - title: Udemy
+          logo: https://favicon.im/www.udemy.com
+          url: https://www.udemy.com/
+          description: Platform with over 210,000 video courses, where UK users can learn practical skills (e.g., coding, graphic design, marketing) from industry instructors, with most courses available at affordable prices.
+        - title: LinkedIn Learning
+          logo: https://favicon.im/www.linkedin.com
+          url: https://www.linkedin.com/learning/
+          description: Career-focused learning platform, offering UK professionals video courses on business, tech, and creative skills (e.g., Excel, Python, leadership) that can be linked to their LinkedIn profiles.
+        - title: FutureLearn
+          logo: https://www.futurelearn.com/favicon.ico
+          url: https://www.futurelearn.com/
+          description: UK-based MOOC platform led by The Open University, partnering with UK universities (e.g., Cambridge, Edinburgh) to offer free/paid courses, micro-credentials, and degrees in diverse subjects.
+        - title: Khan Academy
+          logo: https://www.khanacademy.org/favicon.ico
+          url: https://www.khanacademy.org/
+          description: Free, non-profit learning platform, providing UK students (from primary to university level) with video lessons, practice exercises, and tutorials in math, science, history, and more.
+        - title: Skillshare
+          logo: https://www.skillshare.com/favicon.ico
+          url: https://www.skillshare.com/
+          description: Creative and practical skills platform, where UK users can take video courses on design (e.g., Photoshop, UI/UX), writing, photography, and entrepreneurship via a monthly subscription.
+        - title: The Open University (OpenLearn)
+          logo: https://www.open.ac.uk/favicon.ico
+          url: https://www.open.ac.uk/openlearn/
+          description: Free learning platform from the UK’s Open University, offering UK users access to hundreds of video courses, articles, and quizzes in subjects like health, social sciences, and technology.
+        - title: Pluralsight
+          logo: https://www.pluralsight.com/favicon.ico
+          url: https://www.pluralsight.com/
+          description: Tech-focused learning platform, providing UK IT professionals with video courses and certifications in software development, cloud computing, cybersecurity, and data analytics.
+        - title: MasterClass
+          logo: https://www.masterclass.com/favicon.ico
+          url: https://www.masterclass.com/
+          description: Premium platform where UK users learn from world-renowned experts (e.g., chefs, writers, musicians) via high-quality video lessons, covering creative, business, and lifestyle skills.
+
+
+- taxonomy: office
   icon: fas fa-flask fa-lg
   list:
     - term: Bioinformation
@@ -165,7 +449,7 @@
           url: https://azure.microsoft.com/en-gb/
           description: Comprehensive cloud service with infrastructure, developer tools, and enterprise solutions tailored to UK organizations.
         - title: Google Cloud UK
-          logo: https://www.gstatic.com/branding/product-logos/cloud.svg
+          logo: https://favicon.im/cloud.google.com
           url: https://cloud.google.com/uk
           description: Scalable cloud platform providing data analytics, machine learning, and cloud storage for UK businesses and developers.
         - title: IBM Cloud UK
@@ -177,11 +461,11 @@
           url: https://www.oracle.com/uk/cloud/
           description: Cloud platform delivering infrastructure, database services, and business applications for UK companies.
         - title: Dropbox Business UK
-          logo: https://static.dropbox.com/static/images/branding/logo开屏 - vfl6y7RDf.svg
+          logo: https://favicon.im/www.dropbox.com
           url: https://www.dropbox.com/business/uk
           description: Cloud storage and collaboration tool for UK teams, enabling file sharing, syncing, and remote work support.
         - title: DigitalOcean UK
-          logo: https://www.digitalocean.com/assets/media/logos/svg/digitalocean-logo-mark-full.svg
+          logo: https://favicon.im/www.digitalocean.com
           url: https://www.digitalocean.com/regions/london
           description: Simple, affordable cloud platform with virtual servers (Droplets) and developer tools for UK startups and small businesses.
     - term: office work and study
@@ -199,7 +483,7 @@
           url: https://www.notion.so/en-gb
           description: All-in-one workspace for office tasks and study, enabling note-taking, project management, and database creation in a customizable interface.
         - title: LinkedIn Learning UK
-          logo: https://static.licdn.com/aero-v1/sc/h/83h22zrdx4ep1f09ua7118fr4
+          logo: https://favicon.im/www.linkedin.com
           url: https://www.linkedin.com/learning
           description: Platform for professional study and skill development, offering courses on office software, business skills, and industry-specific knowledge.
         - title: Coursera UK
@@ -212,102 +496,14 @@
           description: Visual project management tool for office work and study planning, using boards, lists, and cards to organize tasks and track progress.
         
 
-- taxonomy: leisure and entertainment
-  icon: fas fa-film fa-lg
-  list:
-    - term: audio and video
-      links:
-        - title: YouTube UK
-          logo: https://www.gstatic.com/youtube/img/branding/youtube-logo/svg/youtube-logo-red.svg
-          url: https://www.youtube.com/
-          description: The world's largest video-sharing platform, used by UK users for watching music videos, vlogs, educational content, live streams, and entertainment clips.
-        - title: Netflix UK
-          logo: https://www.netflix.com/favicon.ico
-          url: https://www.netflix.com/uk/
-          description: Leading subscription-based streaming service offering a vast library of UK and international TV shows, movies, documentaries, and original productions.
-        - title: BBC iPlayer
-          logo: https://www.bbc.co.uk/iplayer/favicon.ico
-          url: https://www.bbc.co.uk/iplayer
-          description: BBC's free on-demand streaming platform for UK users, providing access to live and catch-up TV programs, films, and radio shows from BBC channels.
-        - title: Amazon Prime Video UK
-          logo: https://m.media-amazon.com/images/G/01/AmazonVideo/favicon_144x144.CB485942159.png
-          url: https://www.amazon.co.uk/Prime-Video/b?node=3010086031
-          description: Streaming service included with Amazon Prime membership, offering UK-exclusive content, movies, TV series, and live sports (e.g., Premier League).
-        - title: Disney+ UK
-          logo: https://www.disneyplus.com/favicon.ico
-          url: https://www.disneyplus.com/
-          description: Family-friendly streaming platform with content from Disney, Pixar, Marvel, Star Wars, and National Geographic, popular among UK households.
-        - title: ITV Hub
-          logo: https://www.itv.com/favicon.ico
-          url: https://www.itv.com/hub
-          description: Free on-demand service for UK broadcaster ITV, featuring catch-up TV from ITV channels (ITV1, ITV2, ITVBe), exclusive shows, and live streaming.
-        - title: Channel 4 (All 4)
-          logo: https://www.channel4.com/favicon.ico
-          url: https://www.channel4.com/
-          description: UK public service broadcaster's platform, offering free on-demand access to Channel 4 shows, documentaries, films, and original digital content.
-        - title: Sky Go
-          logo: https://www.sky.com/favicon.ico
-          url: https://www.sky.com/sky-tv/apps/sky-go
-          description: Streaming app for Sky TV subscribers in the UK, allowing access to live TV channels, on-demand content, and recorded shows on multiple devices.
-        - title: Twitch UK
-          logo: https://static.twitchcdn.net/assets/favicon-32-e29e256c157142c94346.png
-          url: https://www.twitch.tv/
-          description: Leading live-streaming platform focused on gaming, with UK users watching/streaming gameplay, esports tournaments, and creative content.
-        - title: NOW (NOW TV)
-          logo: https://www.nowtv.com/favicon.ico
-          url: https://www.nowtv.com/
-          description: Flexible streaming service in the UK, offering pay-as-you-go access to movies, TV shows, sports (e.g., Sky Sports), and kids' content without a long contract.
 
-    - term: gaming and esports
-      links:
-        - title: Twitch
-          logo: https://static.twitchcdn.net/assets/favicon-32-e29e256c157142c94346.png
-          url: https://www.twitch.tv/
-          description: Leading live-streaming platform for gaming, where UK users watch esports tournaments, playthroughs by streamers, and interact with gaming communities.
-        - title: Steam
-          logo: https://store.steampowered.com/favicon.ico
-          url: https://store.steampowered.com/
-          description: Popular digital distribution platform for PC games, offering UK users access to purchase, download, and play thousands of games, plus social features like friend lists.
-        - title: Rockstar Games Social Club
-          logo: https://socialclub.rockstargames.com/favicon.ico
-          url: https://socialclub.rockstargames.com/
-          description: Online platform for Rockstar Games titles (e.g., Grand Theft Auto V, Red Dead Redemption 2), enabling UK players to track progress, join crews, and access exclusive content.
-        - title: Epic Games Store
-          logo: https://store.epicgames.com/favicon.ico
-          url: https://store.epicgames.com/
-          description: Digital game store offering free weekly games and exclusive titles, popular among UK users for its cost-saving options and access to games like Fortnite.
-        - title: EA Play
-          logo: https://www.ea.com/favicon.ico
-          url: https://www.ea.com/en-gb/ea-play
-          description: Subscription service for Electronic Arts (EA) games, giving UK players access to a library of titles (e.g., FIFA, Battlefield) and early access to new releases.
-        - title: Ubisoft Connect
-          logo: https://ubisoftconnect.com/favicon.ico
-          url: https://ubisoftconnect.com/
-          description: Online service for Ubisoft games (e.g., Assassin’s Creed, Rainbow Six Siege), allowing UK users to sync game progress, earn rewards, and play multiplayer modes.
-        - title: Minecraft.net
-          logo: https://www.minecraft.net/favicon.ico
-          url: https://www.minecraft.net/
-          description: Official website for Minecraft, where UK players download the game, access community creations, join servers, and explore content for both Java and Bedrock editions.
-        - title: GOG.com
-          logo: https://www.gog.com/favicon.ico
-          url: https://www.gog.com/
-          description: Digital game store focused on classic and DRM-free games, popular among UK users for its retro titles and commitment to no digital rights management restrictions.
-        - title: RuneScape
-          logo: https://www.runescape.com/favicon.ico
-          url: https://www.runescape.com/
-          description: Official site for the long-running British MMORPG RuneScape, where UK players access both the classic "Old School RuneScape" and the modern "RuneScape 3" versions.
-        - title: GameFAQs
-          logo: https://gamefaqs.gamespot.com/favicon.ico
-          url: https://gamefaqs.gamespot.com/
-          description: Gaming resource site with walkthroughs, cheats, reviews, and forums, widely used by UK players to get help with challenging games and discuss gaming topics.
-      
-- taxonomy: material resources
+- taxonomy: resources
   icon: far fa-folder-open fa-lg
   list:
     - term: cloud storage resources
       links:
         - title: Dropbox UK
-          logo: https://static.dropbox.com/static/images/branding/logo开屏 - vfl6y7RDf.svg
+          logo: https://favicon.im/www.dropbox.com
           url: https://www.dropbox.com/en-gb
           description: Popular cloud storage service for individuals and teams, offering file sync, sharing, and backup, with seamless integration for UK users’ daily work and study.
         - title: Google Drive
@@ -315,7 +511,7 @@
           url: https://drive.google.com/
           description: Cloud storage platform integrated with Google Workspace, providing UK users with free basic storage, real-time file collaboration, and access across devices.
         - title: Microsoft OneDrive
-          logo: https://c.s-microsoft.com/favicon.ico?v2
+          logo: https://favicon.im/www.microsoft.com
           url: https://www.microsoft.com/en-gb/microsoft-365/onedrive/online-cloud-storage
           description: Cloud storage service linked to Microsoft 365, offering UK users file sync with Windows devices, shared folders, and integration with Office apps like Word and Excel.
         - title: Box UK
@@ -323,7 +519,7 @@
           url: https://www.box.com/en-gb
           description: Enterprise-focused cloud storage platform, providing UK businesses with secure file sharing, compliance tools, and collaboration features for remote teams.
         - title: pCloud
-          logo: https://pcloud.com/favicon.ico
+          logo: https://favicon.im/www.pcloud.com
           url: https://www.pcloud.com/
           description: User-friendly cloud storage for UK individuals, offering lifetime storage plans, file versioning, and built-in media playback for photos and videos.
         - title: Mega
@@ -339,7 +535,7 @@
           url: https://spideroak.com/one/
           description: Privacy-first cloud storage for UK users, offering zero-knowledge encryption (no access to user data), file backup, and cross-device sync for personal and business use.
         - title: Sync.com
-          logo: https://sync.com/favicon.ico
+          logo: https://favicon.im/www.sync.com
           url: https://www.sync.com/
           description: Secure cloud storage with end-to-end encryption, providing UK users with file sharing, backup, and collaboration tools, with a focus on data privacy and compliance.
     - term: icon resources
@@ -524,7 +720,7 @@
           description: Abstract Fonts (13,866 free fonts).      
       
 
-- taxonomy: development & design
+- taxonomy: tools
   icon: fas fa-tools fa-lg
   list: 
     - term: graphic ideation
@@ -657,7 +853,7 @@
           description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
         - title: ezgif
           url: https://ezgif.com
-          logo: ezgif.png
+          logo: https://favicon.im/ezgif.com
           description: simple online GIF maker and toolset for basic animated GIF editing.
         - title: Android 9 patch
           url: http://inloop.github.io/shadow4android/
@@ -670,7 +866,7 @@
         - title: svgomg
           url: https://jakearchibald.github.io/svgomg/
           logo: svgomg.png
-          description: SVG 在线压缩平台。
+          description: SVG。
         - title: Gaoding Cutout
           url: https://www.gaoding.com
           logo: gaoding.png
@@ -704,155 +900,4 @@
           description: Discover the world's most beautiful places at every opened tab.
 
 
-- taxonomy: information & learning
-  icon: fas fa-pencil-alt fa-lg
-  list: 
-    - term: reading
-      links:
-        - title: Amazon Kindle Store
-          logo: https://www.amazon.co.uk/favicon.ico
-          url: https://www.amazon.co.uk/Kindle-eBooks/b?ie=UTF8&node=341689031
-          description: Leading digital bookstore for Kindle devices and apps, offering UK users millions of eBooks (including bestsellers, classics, and self-published works) for purchase or rental.
-        - title: Project Gutenberg
-          logo: https://www.gutenberg.org/favicon.ico
-          url: https://www.gutenberg.org/
-          description: Free digital library with over 70,000 public domain eBooks, allowing UK users to read or download classic works (no longer under copyright) in multiple formats like EPUB and PDF.
-        - title: Google Books
-          logo: https://books.google.co.uk/favicon.ico
-          url: https://books.google.co.uk/
-          description: Service from Google that lets UK users search millions of books, preview excerpts, read full public domain titles, and purchase or borrow available eBooks.
-        - title: The British Library Online
-          logo: https://www.bl.uk/favicon.ico
-          url: https://www.bl.uk/
-          description: Digital platform of the UK’s national library, offering UK users free access to historical documents, rare books, digitized manuscripts, and online exhibitions for research and leisure reading.
-        - title: Audible UK
-          logo: https://www.audible.co.uk/favicon.ico
-          url: https://www.audible.co.uk/
-          description: Leading audiobook service, providing UK users with thousands of audiobooks (including bestsellers, podcasts, and original content) via subscription or one-time purchase.
-        - title: Wattpad
-          logo: https://www.wattpad.com/favicon.ico
-          url: https://www.wattpad.com/
-          description: Community-driven platform for reading and sharing stories, where UK users can access free user-generated fiction (romance, fantasy, etc.) and connect with authors.
-        - title: Scribd
-          logo: https://www.scribd.com/favicon.ico
-          url: https://www.scribd.com/
-          description: Subscription-based digital library, offering UK users unlimited access to eBooks, audiobooks, magazines, and documents across genres like fiction, business, and self-help.
-        - title: Open Library
-          logo: https://openlibrary.org/favicon.ico
-          url: https://openlibrary.org/
-          description: Non-profit digital library aiming to "one web page per book," allowing UK users to borrow free digital copies of books (via controlled digital lending) and access metadata for millions of titles.
-        - title: The Guardian Books
-          logo: https://www.theguardian.com/favicon.ico
-          url: https://www.theguardian.com/books
-          description: Books section of The Guardian newspaper, providing UK users with book reviews, author interviews, literary news, and curated reading lists for fiction and non-fiction.
-        - title: JSTOR
-          logo: https://www.jstor.org/favicon.ico
-          url: https://www.jstor.org/
-          description: Academic library for researchers and students in the UK, offering access to peer-reviewed journals, books, and primary sources in fields like humanities, social sciences, and sciences (some content free, some subscription-based).
-    - term: blog
-      links:
-        - title: Reddit UK
-          logo: https://www.reddit.com/favicon.ico
-          url: https://www.reddit.com/r/unitedkingdom/
-          description: Community-driven forum (subreddit) focused on UK topics, where users discuss news, culture, local events, and daily life, with subsections for specific interests like food, travel, and politics.
-        - title: Mumsnet
-          logo: https://www.mumsnet.com/favicon.ico
-          url: https://www.mumsnet.com/
-          description: Leading UK parenting forum and blog platform, where parents share advice on childcare, family life, and product recommendations, with active discussion threads and expert contributions.
-        - title: MoneySavingExpert Forums
-          logo: https://www.moneysavingexpert.com/favicon.ico
-          url: https://forums.moneysavingexpert.com/
-          description: Finance-focused forum, helping UK users discuss budgeting, debt management, savings, and deals, with tips from experts and community members to cut costs and save money.
-        - title: The Student Room
-          logo: https://www.thestudentroom.co.uk/favicon.ico
-          url: https://www.thestudentroom.co.uk/
-          description: Forum and blog for UK students, covering topics like exam preparation, university applications, student life, and career advice, with a large community of current and prospective students.
-        - title: PistonHeads
-          logo: https://www.pistonheads.com/favicon.ico
-          url: https://www.pistonheads.com/
-          description: UK’s top automotive blog and forum, where car enthusiasts discuss vehicle reviews, modifications, buying/selling tips, and motorsport news, with a focus on performance and classic cars.
-        - title: Netmums
-          logo: https://www.netmums.com/favicon.ico
-          url: https://www.netmums.com/
-          description: Parenting community with blogs and forums, offering UK families advice on pregnancy, childcare, and family activities, plus local group meetups and support for working parents.
-        - title: UK Business Forums
-          logo: https://www.ukbusinessforums.co.uk/favicon.ico
-          url: https://www.ukbusinessforums.co.uk/
-          description: Forum for UK small business owners and entrepreneurs, where users share tips on startup strategies, marketing, finance, and legal issues, with networking opportunities and expert insights.
-        - title: Trip Advisor UK Forums
-          logo: https://www.tripadvisor.co.uk/favicon.ico
-          url: https://www.tripadvisor.co.uk/Forums
-          description: Travel discussion forum, helping UK travelers share destination reviews, trip planning advice, and travel hacks, with forums for specific regions (UK, Europe, global) and travel types (family, budget).
-        - title: What Hi-Fi? Forums
-          logo: https://www.whathifi.com/favicon.ico
-          url: https://www.whathifi.com/forums
-          description: Audio-visual and tech forum, where UK users discuss reviews and recommendations for speakers, TVs, headphones, and home cinema systems, with expert guidance on product choices.
-        - title: BabyCenter UK Community
-          logo: https://www.babycenter.co.uk/favicon.ico
-          url: https://www.babycenter.co.uk/community/
-          description: Parenting forum and blog focused on pregnancy and early childhood, offering UK parents support on baby development, feeding, sleep, and postnatal care, with a friendly community of peers.
-    - term: design specifications
-      links:
-        - title: Design Guidelines
-          url: http://designguidelines.co/
-          logo: designguidelines.png
-          description: Design Guidelines &mdash; The way products are built.
-        - title: Awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-          logo: awesome_design_systems.png
-          description:  A collection of awesome design systems.
-        - title: Material Design
-          url: https://material.io/guidelines/
-          logo: Material_Design.png
-          description: Introduction - Material Design.
-        - title: Human Interface Guidelines
-          url: https://developer.apple.com/ios/human-interface-guidelines
-          logo: human_interface_guidelines.png
-          description: Human Interface Guidelines iOS.
-        - title: Photoshop Etiquette
-          url: http://viggoz.com/photoshopetiquette/
-          logo: photoshopetiquette.png
-          description: Photoshop Etiquette - Web Design Guide.
-    - term: MOOC
-      links:
-        - title: Coursera
-          logo: https://www.coursera.org/favicon.ico
-          url: https://www.coursera.org/
-          description: Global MOOC platform partnering with top universities (e.g., Oxford, Stanford) and companies, offering UK users access to free/paid courses, certificates, and degrees in fields like tech, business, and humanities.
-        - title: edX
-          logo: https://www.edx.org/favicon.ico
-          url: https://www.edx.org/
-          description: Non-profit MOOC platform founded by Harvard and MIT, providing UK learners with free/paid courses, professional certificates, and micro-degrees in subjects such as engineering, data science, and art.
-        - title: Udemy
-          logo: https://www.udemy.com/favicon.ico
-          url: https://www.udemy.com/
-          description: Platform with over 210,000 video courses, where UK users can learn practical skills (e.g., coding, graphic design, marketing) from industry instructors, with most courses available at affordable prices.
-        - title: LinkedIn Learning
-          logo: https://www.linkedin.com/learning/favicon.ico
-          url: https://www.linkedin.com/learning/
-          description: Career-focused learning platform, offering UK professionals video courses on business, tech, and creative skills (e.g., Excel, Python, leadership) that can be linked to their LinkedIn profiles.
-        - title: FutureLearn
-          logo: https://www.futurelearn.com/favicon.ico
-          url: https://www.futurelearn.com/
-          description: UK-based MOOC platform led by The Open University, partnering with UK universities (e.g., Cambridge, Edinburgh) to offer free/paid courses, micro-credentials, and degrees in diverse subjects.
-        - title: Khan Academy
-          logo: https://www.khanacademy.org/favicon.ico
-          url: https://www.khanacademy.org/
-          description: Free, non-profit learning platform, providing UK students (from primary to university level) with video lessons, practice exercises, and tutorials in math, science, history, and more.
-        - title: Skillshare
-          logo: https://www.skillshare.com/favicon.ico
-          url: https://www.skillshare.com/
-          description: Creative and practical skills platform, where UK users can take video courses on design (e.g., Photoshop, UI/UX), writing, photography, and entrepreneurship via a monthly subscription.
-        - title: The Open University (OpenLearn)
-          logo: https://www.open.ac.uk/favicon.ico
-          url: https://www.open.ac.uk/openlearn/
-          description: Free learning platform from the UK’s Open University, offering UK users access to hundreds of video courses, articles, and quizzes in subjects like health, social sciences, and technology.
-        - title: Pluralsight
-          logo: https://www.pluralsight.com/favicon.ico
-          url: https://www.pluralsight.com/
-          description: Tech-focused learning platform, providing UK IT professionals with video courses and certifications in software development, cloud computing, cybersecurity, and data analytics.
-        - title: MasterClass
-          logo: https://www.masterclass.com/favicon.ico
-          url: https://www.masterclass.com/
-          description: Premium platform where UK users learn from world-renowned experts (e.g., chefs, writers, musicians) via high-quality video lessons, covering creative, business, and lifestyle skills.
-        
+

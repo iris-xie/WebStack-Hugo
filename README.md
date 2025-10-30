@@ -49,7 +49,7 @@
           url: https://cloud.tencent.com/
           description: 产业智变，云启未来。
 ```
-- 做了手机电脑自适应以及夜间模式。
+- 做了手机电脑自适应以及night mode。
 - 增加了搜索功能，以及下拉的热词选项（基于百度 API）。
 - 增加了一言、和风天气的 API。
 
