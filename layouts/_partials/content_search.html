@@ -1,0 +1,189 @@
+<div class="header-big  post-top css-color mb-4" id="search-bg" style="">
+    <div class="s-search">
+        <div id="search" class="s-search mx-auto">
+            <div id="search-list-menu" class="hide-type-list">
+                <div class="s-type text-center">
+                    <div class="s-type-list big">
+                        <div class="anchor" style="position: absolute; left: 50%; opacity: 0;"></div>
+                        <label for="type-baidu"   data-id="group-a"><span>favourite</span></label>
+                        <label for="type-baidu1"  data-id="group-b"><span>general search</span></label>
+                        <label for="type-zhihu"   data-id="group-d"><span>community</span></label>
+                        <label for="type-taobao1" data-id="group-e"><span>lifestyle</span></label>
+                        <label for="type-zhaopin" data-id="group-f"><span>job</span></label>
+                    </div>
+                </div>
+            </div>
+
+            <form action="https://www.google.co.uk/search?q=" method="get" target="_blank" class="super-search-fm">
+                <input type="text" id="search-text" class="form-control smart-tips search-key"
+                       zhannei="" placeholder="keywords" style="outline:0" autocomplete="off">
+                <button class="submit" type="submit"><i class="iconfont icon-search"></i></button>
+            </form>
+
+            <div id="search-list" class="hide-type-list">
+                <div class="search-group group-a">
+                    <ul class="search-type">
+                        <li><input hidden="" type="radio" name="type" checked="checked"
+                                   id="type-baidu"
+                                   value="https://www.google.co.uk/search?q="
+                                   data-placeholder="Google search">
+                            <label for="type-baidu"><span class="text-muted">Google</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-bing"
+                                   value="https://cn.bing.com/search?q="
+                                   data-placeholder="Mircosoft Bing search">
+                            <label for="type-bing"><span class="text-muted">Bing</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-google"
+                                   value="https://www.baidu.com/s?wd="
+                                   data-placeholder="Baidu search">
+                            <label for="type-google"><span class="text-muted">Baidu</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-anaconda"
+                                   value="https://uk.search.yahoo.com/search?q=" data-placeholder="Yahoo search">
+                            <label for="type-anaconda"><span class="text-muted">Yahoo UK</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-pubmed"
+                                   value="https://www.ask.com/web?q="
+                                   data-placeholder="Ask">
+                            <label for="type-pubmed"><span class="text-muted">Ask</span></label>
+                        </li>
+                    </ul>
+                </div>
+                <div class="search-group group-b">
+                    <ul class="search-type">
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-baidu1"
+                                   value="https://www.google.co.uk/search?q="
+                                   data-placeholder="Google search">
+                            <label for="type-google1"><span class="text-muted">Google</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-bing1"
+                                   value="https://www.bing.com/search?q=" data-placeholder="Mircosoft bing search"><label
+                                for="type-bing1"><span class="text-muted">Bing</span></label></li>
+
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-google1"
+                                   value="https://www.baidu.com/s?wd="
+                                   data-placeholder="Baidu search">
+                            <label for="type-baidu1"><span class="text-muted">Baidu</span></label>
+                        </li>
+                    </ul>
+                </div>
+                <div class="search-group group-d">
+                    <ul class="search-type">
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-zhihu"
+                                   value="https://www.quora.com/search?q="
+                                   data-placeholder="quora">
+                            <label for="type-zhihu"><span class="text-muted">quora</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-weibo"
+                                   value="https://twitter.com/search?q="
+                                   data-placeholder="twitter">
+                            <label for="type-weibo"><span class="text-muted">twitter</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-douban"
+                                   value="https://letterboxd.com/search/?q="
+                                   data-placeholder="letterboxd">
+                            <label for="type-douban"><span class="text-muted">letterboxd</span></label>
+                        </li>
+                    </ul>
+                </div>
+                <div class="search-group group-e">
+                    <ul class="search-type">
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-taobao1"
+                                   value="https://www.amazon.co.uk/s?k="
+                                   data-placeholder="Amazon UK">
+                            <label for="type-taobao1"><span class="text-muted">Amazon UK</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-jd"
+                                   value="https://www.tesco.com/groceries/en-GB/search?query="
+                                   data-placeholder="tesco">
+                            <label for="type-jd"><span class="text-muted">tesco</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-xiachufang"
+                                   value="https://www.sainsburys.co.uk/groceries?query="
+                                   data-placeholder="sainsburys">
+                            <label for="type-xiachufang"><span class="text-muted">sainsburys</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-xiangha"
+                                   value="https://www.asos.com/search/?q="
+                                   data-placeholder="asos">
+                            <label for="type-xiangha"><span class="text-muted">asos</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-qunar"
+                                   value="https://www.ebay.co.uk/sch/i.html?_nkw="
+                                   data-placeholder="ebay">
+                            <label for="type-qunar"><span class="text-muted">ebay</span></label>
+                        </li>
+                    </ul>
+                </div>
+                <div class="search-group group-f">
+                    <ul class="search-type">
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-zhaopin"
+                                   value="https://uk.indeed.com/jobs?q="
+                                   data-placeholder="Indeed UK">
+                            <label for="type-zhaopin"><span class="text-muted">Indeed UK</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-51job"
+                                   value="https://www.reed.co.uk/jobs?keywords="
+                                   data-placeholder="Reed.co.uk">
+                            <label for="type-51job"><span class="text-muted">Reed.co.uk</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-lagou"
+                                   value="https://www.totaljobs.com/jobs?Keywords="
+                                   data-placeholder="Totaljobs">
+                            <label for="type-lagou"><span class="text-muted">Totaljobs</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type"
+                                   id="type-liepin"
+                                   value="https://www.cv-library.co.uk/jobs?keywords="
+                                   data-placeholder="CV-Library">
+                            <label for="type-liepin"><span class="text-muted">CV-Library</span></label>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="card search-smart-tips search-hot-text">
+                <ul id="word" style="display: none"></ul>
+            </div>
+        </div>
+    </div>
+    <!--div class="bulletin-big mx-3 mx-md-0">
+        <div id="bulletin_box" class="card my-2">
+            <div class="card-body py-1 px-2 px-md-3 d-flex flex-fill text-xs text-muted">
+                <div><i class="iconfont icon-bulletin" style="line-height:25px"></i></div>
+                <div class="bulletin mx-1 mx-md-2 carousel-vertical">
+                    <div class="carousel slide" data-ride="carousel" data-interval="3000">
+                        <div class="carousel-inner" role="listbox">
+                            <div class="carousel-item active"><a class="overflowClip_1"
+                                    href="#">所长导航 - 用心精选每一个链接</a></div>
+                            <div class="carousel-item "><a class="overflowClip_1"
+                                    href="#">所长导航 - 有范的导航网站</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex-fill"></div>
+                <a title="关闭" href="javascript:;" rel="external nofollow" class="bulletin-close"
+                    onclick="$('#bulletin_box').slideUp('slow');"><i class="iconfont icon-close"
+                        style="line-height:25px"></i></a>
+            </div>
+        </div>
+    </div-->
+</div>

@@ -148,12 +148,12 @@
     {{ end }}                        
 
     <h4 class="text-gray text-lg mb-4">
-        <i class="iconfont icon-book-mark-line icon-lg mr-2" id="friendlink"></i>友情链接
+        <i class="iconfont icon-book-mark-line icon-lg mr-2" id="friendlink"></i>friendly links
     </h4>
     <div class="friendlink text-xs card">
         <div class="card-body"> 
 	    {{ range .Site.Data.friendlinks }}
-	    <a href="{{ .url }}" title="{{ .description }}" target="_blank">{{ .title }}</a>
+	    <a href="{{ .url }}" title="{{ .description }}" target="_blank" rel="dofollow noopener">{{ .title }}</a>
 	    {{ end }}
         </div>
     </div>
