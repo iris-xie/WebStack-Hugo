@@ -44,4 +44,4 @@ publishDir            = "public"				# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = 'The content of this website is sourced from the Internet. If any content infringes on your rights and interests, please contact us to have the relevant content removed.Contact email：siqimochi0@gamil.com'
+    copyright = 'The content of this website is sourced from the Internet. If any content infringes on your rights and interests, please contact us to have the relevant content removed.Contact email：siqimochi0@gmail.com'
